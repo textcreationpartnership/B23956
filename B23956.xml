@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Parliament of the Common-wealth of England, and every individuall member thereof. The second humble representation of Capt. John Harris, in answer unto a scandalous paper, lately exhibited in the name of one John Cox, pretended agent of severall trustees mentioned in the ordinance for payment of Master Pyms debts</title>
+            <author>Harris, John, Capt.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23956</idno><idno type="EEBO-CITATION">99827635</idno>
+  <idno type="VID">206869</idno>
+  <idno type="EEBO-PROQUEST">2248496613</idno>
+  
+            <idno type="STC">Wing H856A</idno>
+            <idno type="PROQUEST">99827635</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827635e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206869)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1849:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Parliament of the Common-wealth of England, and every individuall member thereof. The second humble representation of Capt. John Harris, in answer unto a scandalous paper, lately exhibited in the name of one John Cox, pretended agent of severall trustees mentioned in the ordinance for payment of Master Pyms debts</title>
+                  <author>Harris, John, Capt.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Lambeth Marsh, Aug. 1651. Jo: Harris.</note>
+                  <note>The work by Cox is called on page 1: A true confutation of a false representation, of one that calls himselfe by the name of Capt. John Harris. The ordinance is mentioned at the end of the Pym article in DNB. Neither is traced.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cox, John, fl. 1651 --  Early works to 1800.</term>
+               <term type="personal_name">Pym, John, 1584-1643 --  Early works to 1800.</term>
+               <term type="geographic_name">England and Wales --  History --  Commonwealth and Protectorate --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206869:1"/>
+            <p>TO THE PARLIAMENT OF THE Common-wealth of ENGLAND, and every Individuall Member thereof. <hi>The second humble Representation of</hi> Capt. John Harris, In answer unto a Scandalous paper, lately exhibited in the name of one <hi>John Cox,</hi> pretended Agent of severall Trustees mentioned in the Ordinance for payment of Master <hi>Pyms</hi> Debts.</p>
+            <q>
+               <bibl>
+                  <hi>Prov: 28. ver. 21.</hi>
+               </bibl>
+               <p>To have respect of Persons is not good, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 23. ver. 3.</hi>
+               </bibl>
+               <p>To doe justice and judgement is more acceptable to the Lord then Sacrifice.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="2" facs="tcp:206869:2"/>
+            <head>To the Parliament of the Common-Wealth of <hi>England,</hi> and every Individuall Member thereof.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I considered the advise of the Wiseman, who gives caution <hi>not to answer a Foole in his Folly lest we be like unto him;</hi> I had resolved not so much as to take notice of a late <hi>lying scandalous paper,</hi> entitutled, <hi>A true Confutation of a false Representa<g ref="char:EOLhyphen"/>tion, of one that</hi> calls himselfe by the name of Capt. <hi>John Harris,</hi> published in the name of one <hi>John Cox,</hi> Agent to severall Trustees for payment of Master <hi>Pyms</hi> debts, (although the Gentleman was ashamed to affix his hand thereunto, as by the said paper appeares.)</p>
+            <p>Yet when I considered that by the said Paper not onely my owne innocency was arraigned and unjustly sentenced, but also the Interest of the Commonwealth apparently subject to preju<g ref="char:EOLhyphen"/>dice, and that I (having so far traced the proceedings of the said <hi>John Cox</hi>) had a possibility of repayring the one &amp; preventing the other, by a timely discovery of the strange Fallacies, and scanda<g ref="char:EOLhyphen"/>lous suggestions of the said <hi>John Chx,</hi> who thereby hopeth to pre<g ref="char:EOLhyphen"/>vent my endeavours of procuring an equall discussion of severall matters of Fact, wherein the honour, justice and Interest of the Common-wealth is eminently concerned; I say the consideration thereof constrained me once more to put pen to paper, and clear<g ref="char:EOLhyphen"/>ly and ingenuously, according to the utmost of my skill, so to state the Case, that every eye may judge whether what I have en<g ref="char:EOLhyphen"/>deavoured be for the advance of my owne Interest, as in the said paper is falsely suggested, or for the advantage of the Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p>In the first place instead of a confutation he comes in with a scandalous calumniation, suggesting that the Representer appear<g ref="char:EOLhyphen"/>ed onely for the Interest of Papists and Delinquents (but names none) neither dare he, lest he should be put to as much trouble to prove it, as he hath beene to give his two various accounts upon his owne oath, concerning the estates trusted for Payment of
+<pb facs="tcp:206869:2"/>Master <hi>Pyms</hi> debts. But certainly the Gentleman mistook him<g ref="char:EOLhyphen"/>selfe when he thought his crying out against the proceedings of one, that he would faine have the world beleeve, to be a Papist, thereby to create a prejudice against the Representer and the things Represented, should be any enducement to the persons of Gravity and honour by him mentioned, either to beleeve him, or condemne me, untill they had heard both parties, and exa<g ref="char:EOLhyphen"/>mined the matters of Fact; and therefore in my opinion he might well have spared that labour. For I humbly conceive, if I were a Papist in Armes my selfe, and should offer any thing unto the con<g ref="char:EOLhyphen"/>sideration of Parliament, that tended unto the advancement of the Interest of the publique, it would not be so much considered what I was, but what I purposed; in such cases, the things, not persons, being to be respected.</p>
+            <p>But suppose the Case were as the Gentleman would have it, nothing would accrew thereby to his benefit: for if the Estate of <hi>Thomas Morgan</hi> and <hi>John Preston</hi> were setled for payment of Master <hi>Pyms</hi> just debts, certainly those debts must appeare, and be duly proved, and not Master <hi>Cox</hi> left at liberty to bring in eight or ten thousand pounds debts of the Lord <hi>Sayes,</hi> the Earle of <hi>Manchester,</hi> Sir <hi>Benjamin Rudiards,</hi> who is one of the trustees, and others.</p>
+            <p>And suppose all the Debts claimed were admitted, yet the trustees must onely enjoy <hi>Morgans</hi> and <hi>Prestons,</hi> and not the estate of any other person, whether Papist, Delinquent, or both; For certainly the Parliament <hi>as they were just in saving the Right of all other Persons, then the Heires, Executors, Admini<g ref="char:EOLhyphen"/>strators or Assignes, of Morgan and Preston by their Ordinance for settlement;</hi> So they will be just in making it good. And truly I apprehend that my endeavours, if any such have beene, to preserve the <hi>honour</hi> and <hi>justice</hi> of <hi>Parliament,</hi> although as is pretended unto an enemy, will not by any unprejudiced unin<g ref="char:EOLhyphen"/>teressed person be lookt upon as a dis-service.</p>
+            <p>But further, I would faine have the Gentleman unmaske him<g ref="char:EOLhyphen"/>selfe, and tell me this Papist and Delinquents name, and then I should be able to speake to the purpose; For now I do but guesse at his meaning. I remember once at <hi>Haberdashers-Hall</hi> the Genleman to hinder my endeavours of calling him to an account, did suggest that I only appearded on behalf of one Sir <hi>Anthony Morgan,</hi> whom he then suggested to be <hi>a Papist in Armes,</hi> but
+<pb facs="tcp:206869:3"/>Mr. <hi>Rich</hi> being Councell for the said Sir <hi>Anthony</hi> did clearly disprove that his scandalous suggestion by the produce of a Cer<g ref="char:EOLhyphen"/>tificate under the hands of <hi>Josias Barners,</hi> one of the Commissio<g ref="char:EOLhyphen"/>ners &amp; <hi>Justice Lowther,</hi> of his having taken the oath of abjuration, the truth whereof Mr. <hi>Cox</hi> knowes well, and yet contrary to the light of his Conscience will proceed in such his calumnations; But this is only matter of supposition, and therefore untill the Gentleman make a particular discovery, I shall as to that be si<g ref="char:EOLhyphen"/>lent: But to proceed, the Gentleman in the fifth pag. of his Paper, endeavouring to wave the order of Parliament of 13 <hi>Feb.</hi> 1643. which ascertained Mr. <hi>Pyms</hi> Debts to ten Thou<g ref="char:EOLhyphen"/>sand Pounds, and takes upon him to give you the reason of Par<g ref="char:EOLhyphen"/>liament for leaving the debts at an uncertainty in the Ordinance; to wit, because the Debts were great, and the Greater, for the interest growing between the time of the said Order, and passing the Ordinance, which was about two yeares after; But he had forgot to tell you that Sir <hi>Benjamin Rudiard</hi> received three half yeares Rent out of <hi>Morgans</hi> Estate, between <hi>Feb.</hi> 1643. and <hi>Ian.</hi> 1645. the time of the passing the said Ordinance, so that the Debts might have been lessened, if he and his good Master had pleased; as also that the Children of Mr. <hi>Pym</hi> received se<g ref="char:EOLhyphen"/>verall summes out of the Revenue for their maintenance before and since the Ordinance; as will appeare by certificate of Mr. <hi>Cosins,</hi> Secretary to the Committee of the Revenue. And a little further he tells you that the greatest part of these Debts were con<g ref="char:EOLhyphen"/>tracted by Mr. <hi>Pyms</hi> neglect of his own private estate for the service of the Common-wealth. Now although I doe honour the memory of Mr. <hi>Pym,</hi> and acknowledge his faithfull industry on behalfe of the publique, yet I must be bold to tell the Gentleman that in this he hath greatly abused the truth, and for proofe there<g ref="char:EOLhyphen"/>of shall quote Mr. <hi>Sherwins</hi> Report, by which it appears that of all the debts challenged (some whereof have been owing ever since <hi>Jan.</hi> 1622. <hi>May</hi> 1631. and so upward to 1640) there hath not been above two thousand two hundred pounds borrowed by Mr. <hi>Pym</hi> since the Parl. sate, and the Lord <hi>Say,</hi> Lord <hi>Brooke,</hi> the Earle of <hi>Manchester,</hi> Sir <hi>Benjamin Rudiard,</hi> or some one or more of them are parties to some of the said Debts too; but Mr. <hi>Cox</hi> is a con<g ref="char:EOLhyphen"/>fident affirmant, though he hath a treacherous memory; and can<g ref="char:EOLhyphen"/>not make his tales hold well together.</p>
+            <p>In the next place in answer to my allegation that the Debts
+<pb n="5" facs="tcp:206869:3"/>of Mr. <hi>Pym</hi> were not proved: He flies to his sanctuary the Report of Mr. <hi>Sherwin,</hi> whose name he sets downe with an Emphasis for his greater Glory; sayes he, it appeares by the Report of Mr. <hi>Auditor Sherwin,</hi> that the greatest part of them are pro<g ref="char:EOLhyphen"/>ved, and the rest are ready to be proved, before the Honoura<g ref="char:EOLhyphen"/>ble Committee nominated by the Parliament, for taking the Ac<g ref="char:EOLhyphen"/>compts of the said Trustees.</p>
+            <p>But truly I shall joyn issue with Mr. <hi>Cox</hi> upon this account, and tell him that notwithstanding all his mincing of the matter, not one of the Debts are proved, either as was required by the order of <hi>Jan.</hi> 29. 1650. or by the Order of the 18. of <hi>March,</hi> 1650. or as they ought to be in justice and equity. Next he endeavours to shuffle off that materiall allegation of mine in my Representati<g ref="char:EOLhyphen"/>on; To wit, (That the Debts and Interest charged in Mr. <hi>Cox</hi> his Accompt to be paid, did not appeare by any of the Creditors ex<g ref="char:EOLhyphen"/>amined,) with saying the Creditors were not axamined to that point, and that the money charged to be paid in the Accompt was to other persons not there produced. If it be true as he sayes, I must be bold to say there was the greater partiality or negli<g ref="char:EOLhyphen"/>gence. For the Order of <hi>March</hi> 18. 1650. did enjoyn the In<g ref="char:EOLhyphen"/>terrogating the Creditors, not onely what was due, but what was paid, and by whom; for that it was possible Mr. <hi>Pym</hi> in his life time might pay all or part of many Debts now challenged to be due; and it was also ordered that Mr. <hi>Cox</hi> or the Trustees should ascertaine and prove all Mr. <hi>Pyms</hi> Debts, and not to take some and leave some, and Mr. <hi>Brewerton</hi> did draw up Interrogatories according to the said Order, and sent them to Mr. <hi>Sherwin</hi> to ex<g ref="char:EOLhyphen"/>amine the Creditors to that purpose; and I cannot beleeve Master <hi>Sherwin</hi> did omit so materiall an examination, so much concer<g ref="char:EOLhyphen"/>ning the benefit of the Common-wealth, and those persons who were not produced, to whom he pretends to have paid his Ac<g ref="char:EOLhyphen"/>compt, ought by the said Order to have been produced, if any such Creditors had been, which giveth great cause of beleefe, there never were any such Creditors in being, and that the 5171 l. re<g ref="char:EOLhyphen"/>maineth as cash to be accounted for by Mr. <hi>Cox</hi> to the Common<g ref="char:EOLhyphen"/>wealth; but Mr. <hi>Coxes</hi> seeming confident reliance on the mentioned Report, and his affirmation of being ready to prove the remainder of the Debts, are but Reeds, which will stand him in little stead, they are but Cobweb Lawn, and the mystery is seen through, for I would have all rationall men to judge, wherefore the Parliament
+<pb n="6" facs="tcp:206869:4"/>should be troubled to take care of this particular Case, which was under the Consideration of those which they had made pro<g ref="char:EOLhyphen"/>per judges, and by whom such pains had been taken to find out the truth of the Case, that by their Report (if need had required) the Parliament might have been truly enformed.</p>
+            <p>I say I would faine have Mr. <hi>Cox</hi> tell me the reason, for I cannot fathome it, only to me it appeares that it was done out of designe to prevent the Commissioners farther search in the businesse, whose criticall examination he could not endure with safety, and therefore found out this way by some subtile suggestion or other to engage the Parliament to transmit the examination thereof un<g ref="char:EOLhyphen"/>to a Committee, altogether unacquainted with the proceedings that had been thereupon, thereby hoping before any were aware to get himselfe free of the account, and secured in the execution of his fraud and oppression.</p>
+            <p>As to his flourishes concerning the values of the estate and his improvement, together with what he hath received and paid, with the extravagancy of his and his fellow Agents accompts, se<g ref="char:EOLhyphen"/>verall summes of the Common-wealths money being charged up<g ref="char:EOLhyphen"/>on accompt <hi>for the leaping of Mr. Pyms Mare,</hi> and for <hi>Ale and Tobacco for Mr.</hi> Cox <hi>and the like,</hi> all these things being matter of Fact, I shall referre them to the examination and judgment of the persons entrusted therewith, onely for the better satisfaction I will propose a few things to consideration, and then referring my selfe unto my Representation formerly exhibited, humbly submit my selfe unto your graver judgements.</p>
+            <p n="1">1. Whether it be not just and equall that the Debts of Mr. <hi>Pym</hi> should be proved to be his proper Debts, as also when and how they became his Debts, and whether any of them were paid by him in his life time?</p>
+            <p n="2">2. Whether it be not reasonable where the Earle of <hi>Manche<g ref="char:EOLhyphen"/>ster,</hi> the Lord <hi>Say,</hi> Sir <hi>Benjamin Rudiard,</hi> or any other stands bound together with Mr. <hi>Pym,</hi> that they should prove Mr. <hi>Pym</hi> to be the Principall, either by witnesse upon oath, or the produce of Counterbonds?</p>
+            <p n="3">3. The Parliament having settled the Interests and Estates of <hi>Morgan</hi> or <hi>Preston</hi> only, which they had 1641, for the payment of Mr. <hi>Pyms</hi> Debts, and by their Ordinance saved the Interest of all persons other than their Heires, <hi>&amp;c.</hi> If any other person have a legall title to all or any part of the premisses, whether
+<pb n="7" facs="tcp:206869:4"/>is it for the advancement of the Honour, Justice, or interest of Parliament, that the said <hi>Cox.</hi> &amp;c. upon pretence of the Ordinance should detain the said Estate? For if the person claiming be as he suggests a <hi>Papist</hi> and <hi>De<g ref="char:EOLhyphen"/>linquent,</hi> although his Estate be forfeit unto the Common-wealth: yet it appertaines not to the Trustees either in right of Sequestration or sale, they being to enjoy no more then by their Ordinance is setled.</p>
+            <p n="4">4. Whether it be not rationally to be expected that Mr. <hi>Cox</hi> (who hath already exhibited two various accompts upon his oath, besides severall other papers under his hand absolutely contradictory to one another,) should be forced to make other proofe of his receipts or disbursments then his own oath?</p>
+            <p n="5">5. Whether (considering that Mr. <hi>Cox</hi> will not discover the true value of the Estate settled) It would not conduce very much to the clearing of the truth and securing the Common-wealths interest, to have a Commis<g ref="char:EOLhyphen"/>sion executed for discoverie of the true values, and what he hath leavied thereupon, for I conceive the Trustees affirmation that they have received no more, can be no discharge to Mr. <hi>Cox,</hi> who hath or might have received more; having enjoyed the Estate six yeares, being acknowledged to be of the value of 2480 l. <hi>per an.</hi> besides Wood and Timber sold; which if exa<g ref="char:EOLhyphen"/>mined will amount to a considerable value.</p>
+            <p n="6">6. Whether the produce of severall specialties pretended to be dischar<g ref="char:EOLhyphen"/>ged by Mr. <hi>Cox</hi> as Mr. <hi>Pyms</hi> Debts, the same not being proved, can be ad<g ref="char:EOLhyphen"/>mitted as a sufficient discharge, for five thousand and odde pounds by him received and charged as paid in his account.</p>
+            <p n="7">7. Whether Mr. <hi>Coxes</hi> pretence of having paid severall great sums of Money to <hi>Charles</hi> and <hi>Katherin Pym,</hi> one whereof hath been long dead, and the other remaining in the <hi>Antego Islands,</hi> (of which Mr. <hi>Cox</hi> will take no notice) whether I say that shall be allowed, as part of their porti<g ref="char:EOLhyphen"/>ons, paid them while the Debts are unpaid, and the interest encreasing to above five thousand pounds, all which is charged upon the State.</p>
+            <p>But not to trouble you further, I earnestly desire all those to whose hands this paper shall come, seriously to reade the same, together with the Repre<g ref="char:EOLhyphen"/>sentation formerly published, and then judge whether what I have done or do in the premssies do not tend visibly to prevent the fraudulent pro<g ref="char:EOLhyphen"/>ceedings of the said <hi>Iohn Cox,</hi> and securing the just interest of the Parlia<g ref="char:EOLhyphen"/>ment. As for his great outcry of my appearance for <hi>Papists,</hi> and <hi>Delin<g ref="char:EOLhyphen"/>quents;</hi> it signifies nothing untill it be proved, and if proved, I humbly con<g ref="char:EOLhyphen"/>ceive the justice of Parliament ought to be as tenderly preserved to them as any other; and I in endeavouring the same am no way culpable.</p>
+            <p>For my part I scarce know Mr. <hi>Cox</hi> or any other person concerned,
+<pb n="8" facs="tcp:206869:5"/>neither have I any personall prejudice against them: but since I have come to the knowledge of their proceedings, I did conceive my self obliged to make a discovery thereof, and by Gods blessing am resolved to pursue the same, untill I shall obtain an equall hearing; and I doubt not but in the end, were his Masters and Friends my Judges, it would really appeare that his Agency hath been detrimentall both to their honour who trusted him, and to the Common-wealth; and that the Gentleman who calls himself by the Name of Capt. <hi>Iohn Harris,</hi> (as he conceives he justly may do, having since <hi>March</hi> 25. last past as a Captain expended of his own Estate above one hundred and threescore pounds for advancement of the Publique Ser<g ref="char:EOLhyphen"/>vice) will appeare as he hath since the beginning of the late Warre, (wherein he hath faithfully served the Parliament in matters of greatest Consequence) a reall Servant unto the Honour, Justice and interest of the Parliament, to whom he is resolved to adhere to the Hazard of his life and estate, when such Flesh-flies as his Calumniators, who love them onely for what they can suck from them, will hide their heads, or by a conjunction with their enemies manifest their malignity.</p>
+            <p>Time will evidence all things, and there is a good God that judgeth the intention, and will lay open the Hidden Secrets of the heart, to him I ap<g ref="char:EOLhyphen"/>peale, on him I depend, well knowing that the hearts of Rulers and Judges are and shall be framed and disposed for the accomplishment of his end, <hi>viz.</hi> The impartiall execution of justice, without respect of per<g ref="char:EOLhyphen"/>sons.</p>
+            <closer>
+               <dateline>
+                  <hi>Lambeth</hi> Marsh, <date>
+                     <hi>Aug.</hi> 1651.</date>
+               </dateline>
+               <signed>
+                  <hi>In the assurance whereof I am bold in all humility to subscribe my selfe, yours, and the Common-wealths reall ser<g ref="char:EOLhyphen"/>vant to my power,</hi> JO: HARRIS.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
